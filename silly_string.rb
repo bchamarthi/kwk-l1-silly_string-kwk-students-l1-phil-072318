@@ -22,9 +22,9 @@ new_letter_count = bigger_word.length
 puts "There are now #{new_letter_count} in #{bigger_word}"
 
 # Challenge 6: Capitalize this sentence properly
-proper_sentence = "i really like programming."
-proper_sentence_new = proper_sentence.capitalize # Put a . after the string to capitalize it properly.
-puts "This sentence is capitalized properly: #{proper_sentence_new}"
+proper_sentence = "i really like programming.".capitalize
+ # Put a . after the string to capitalize it properly.
+puts "This sentence is capitalized properly: #{proper_sentence}"
 
 # Challenge 7: String Switcheroo
 sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
