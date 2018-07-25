@@ -12,8 +12,8 @@ lowercased_phrase = phrase.downcase # Put a . after phrase and use a String meth
 puts "My favorite word in lowercase is: #{lowercased_phrase}"
 
 # Challenge 4: Count how many letters are in that big_word
-big_word = "supercalifragilisticexpialidocious"
-letter_count = big_word.length # Put a . after big_word and use a String method.
+big_word = "supercalifragilisticexpialidocious".length 
+letter_count = big_word # Put a . after big_word and use a String method.
 puts "There are #{letter_count} in #{big_word}"
 
 # Challenge 5: Add "wow" and "mom" to big_word
